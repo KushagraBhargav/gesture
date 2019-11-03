@@ -8,4 +8,4 @@
     android:eventsInterceptionEnabled= "true"
     android:gestureStrokeType="multiple"
     android:orientation="vertical"
-    tools:context="kushagra.gesture_control.second"/>
+    tools:context="kushagra.gesture_control.Second"/>
